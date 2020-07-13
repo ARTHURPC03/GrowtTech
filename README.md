@@ -9,11 +9,11 @@
 # 📷 Demo 
 
 <div align="center" >
-  <img src="./github/signin.png" alt="demo-web" height="425">
-  <img src="./github/signup.png" alt="demo-web" height="425">
-  <img src="./github/dashboard.png" alt="demo-web" height="425">
-  <img src="./github/dashboardL.png" alt="demo-web" height="425">
-  <img src="./github/pagination.png" alt="demo-web" height="425">
+  <img src="./github/signin.png" alt="signin" height="425">
+  <img src="./github/signup.png" alt="signup" height="425">
+  <img src="./github/Dashboard.png" alt="Dashboard" height="425">
+  <img src="./github/DashboardL.png" alt="DashboardL" height="425">
+  <img src="./github/pagination.png" alt="pagination" height="425">
 </div>
 
 ---
