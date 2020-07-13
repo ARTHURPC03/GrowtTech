@@ -68,7 +68,7 @@ This project was developed with the following technologies:
 **Clone the project and access the folder**
 
 ```bash
-$ git clone ... && cd GrowtTech
+$ git clone https://github.com/ARTHURPC03/GrowtTech && cd GrowtTech
 ```
 
 **Follow the steps below**
